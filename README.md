@@ -4,4 +4,6 @@ Built a basic and responsive website using HTML, CSS and Javascript for a digita
 
 Note : css,js,vendor,img folder comes inside assets folder.
 
+Demo Link: https://affinzy-moeez-assg1.netlify.app/
+
 
